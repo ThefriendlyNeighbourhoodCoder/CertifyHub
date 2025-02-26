@@ -1,0 +1,7 @@
+com\certifyhub\auth\service\UsersService.class
+com\certifyhub\auth\repository\UserRepo.class
+com\certifyhub\auth\model\User.class
+com\certifyhub\auth\model\Role.class
+com\certifyhub\auth\Security\SecurityConfig.class
+com\certifyhub\auth\AuthServiceApplication.class
+com\certifyhub\auth\Controller\ContentController.class
